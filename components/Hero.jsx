@@ -29,7 +29,7 @@ const Hero = () => {
                             <Button variant="secondary" className="gap-x-2 rounded-full text-base">Download CV <Download size={18} /></Button>
                         </div>
                         <div>
-                            <Socials containerStyles="flex gap-x-6 mx-auto xl:mx-0" iconStyles="text-foreground text-[22px] hover:text-primary transition-all" />
+                            <Socials containerStyles="flex justify-center gap-x-6 mx-auto xl:mx-0" iconStyles="text-foreground text-[22px] hover:text-primary transition-all" />
                         </div>
                     </div>
                     <div className="hidden xl:flex relative">
