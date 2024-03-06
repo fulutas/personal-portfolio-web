@@ -17,7 +17,7 @@ const projectData = [
 		image: "/work/3.png",
 		category: "react js",
 		name: "Nexa Website",
-		decription: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+		description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
 		link: "/",
 		github: "/"
 	},
@@ -25,7 +25,7 @@ const projectData = [
 		image: "/work/2.png",
 		category: "next js",
 		name: "Moon Website",
-		decription: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+		description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
 		link: "/",
 		github: "/"
 	},
@@ -33,7 +33,7 @@ const projectData = [
 		image: "/work/1.png",
 		category: "fullstack",
 		name: "Serenity Website",
-		decription: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+		description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
 		link: "/",
 		github: "/"
 	},
@@ -41,7 +41,7 @@ const projectData = [
 		image: "/work/4.png",
 		category: "fullstack",
 		name: "Solstice Website",
-		decription: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+		description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
 		link: "/",
 		github: "/"
 	},
@@ -49,7 +49,7 @@ const projectData = [
 		image: "/work/2.png",
 		category: "fullstack",
 		name: "Lumina Website",
-		decription: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+		description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
 		link: "/",
 		github: "/"
 	}
